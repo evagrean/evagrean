@@ -1,4 +1,4 @@
-![Profile Banner](./assets/banner-img.png)
+![Profile Banner](./assets/banner-img-small.png)
 
 ### Learn more about me & feel free to connect with me:
 

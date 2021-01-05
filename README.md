@@ -2,10 +2,10 @@
 
 <div style="color: #24282c; background-color: #e5676f; padding: 20px; font-size: 20px; border-radius: 25px ">
 <p>
-I am a web developer with background in content management and music retail. Currently I'm discovering the power of TypeScript.
+I'm a web developer with background in content management and music retail. Currently, I'm discovering the power of TypeScript.
 </p>
 <p>
-I'm good at combining my technical skills and my problem-solving competence I gained working with customers in retail. This enables me to create beneficial solutions and high-quality code.
+Combining technical skills and my problem-solving competence I gained working with customers in retail enables me to create beneficial solutions and high-quality code.
 </p>
 </div>
 ___________________________________________________________________________________________________

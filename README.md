@@ -1,14 +1,13 @@
 # Hello, I'm Eva
 
-<div style="color: #24282c; background-color: #e5676f; padding: 20px; font-size: 20px; border-radius: 25px ">
 <p>
 I'm a web developer with background in content management and music retail. Currently, I'm discovering the power of TypeScript.
 </p>
 <p>
-Combining technical skills and my problem-solving competence I gained working with customers in retail enables me to create beneficial solutions and high-quality code.
+When working on a web project, I feel satisfied because I can turn ideas into reality by using my brain.
 </p>
-</div>
-___________________________________________________________________________________________________
+
+---
 
 ### Learn more about me & feel free to connect with me:
 

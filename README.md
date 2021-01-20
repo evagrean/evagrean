@@ -1,10 +1,7 @@
 # Hello, I'm Eva
 
 <p>
-I'm a web developer with background in content management and music retail. Currently, I'm discovering the power of TypeScript.
-</p>
-<p>
-When working on a web project, I feel satisfied because I can turn ideas into reality.
+I'm a web developer with background in content management and musicology. I'm a lifelong learner and love to turn ideas into reality. Currently I'm discovering the power of TypeScript.
 </p>
 
 ---

@@ -1,7 +1,7 @@
 # Hello, I'm Eva
 
 <p>
-I'm a web developer with background in content management and musicology. I'm a lifelong learner and love to turn ideas into reality. Currently I'm discovering the power of TypeScript.
+I'm a full-stack web developer with high problem-solving skills in software development, content management and music retail. I'm a lifelong learner and love to turn ideas into reality. Currently I'm discovering the power of TypeScript and the fundamentals of PHP.
 </p>
 
 ---

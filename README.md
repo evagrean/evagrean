@@ -1,7 +1,7 @@
 # Hello, I'm Eva
 
 <p>
-I'm working as a full-stack web developer in the e-commerce sector. For the scripts I'm writing at work I primarily use TypeScript and Node.js. I love to keep learning and evolving with the technology. Currently I'm learning PHP to improve my server-side skills to be more broadly positioned as full-stack developer. 
+I'm working as a full-stack web developer in the e-commerce sector. For the scripts I'm writing at work I primarily use TypeScript and Node.js. I love to keep learning and evolving with the technology. Currently I'm learning PHP to improve my server-side skills and thus to be more broadly positioned as full-stack developer. 
 </p>
 
 ---

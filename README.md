@@ -1,7 +1,7 @@
 # Hello, I'm Eva
 
 <p>
-I'm a full-stack web developer with high problem-solving skills in software development, content management and music retail. I'm a lifelong learner and love to turn ideas into reality. Currently I'm discovering the power of TypeScript and the fundamentals of PHP.
+I'm working as a full-stack web developer in the e-commerce sector. For the scripts I'm writing at work I primarily use TypeScript and Node.js. I love to keep learning and evolving with the technology. Currently I'm learning PHP to improve my server-side skills to be more broadly positioned as full-stack developer. 
 </p>
 
 ---

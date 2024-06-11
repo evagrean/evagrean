@@ -2,7 +2,7 @@
 
 <p>
 I'm a full-stack web developer with experience in the e-commerce sector. For scripts I'm writing for work I primarily use TypeScript and Node.js.<br>
-I have a passion for continuous learning and growth. Currently, I am exploring PHP to enhance my server-side skills, aiming to broaden my expertise as a full-stack developer. 
+I have a passion for continuous learning and growth. To broaden my expertise as a full-stack developer, I am exploring  AI-driven tools and frameworks and how they can help me improve my code quality, reduce development time or manage complex projects.
 </p>
 
 ---

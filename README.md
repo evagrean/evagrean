@@ -13,4 +13,4 @@ I'm a full-stack web developer with experience in the e-commerce sector. My prim
 [![DEV Badge](https://img.shields.io/badge/-_evagrean-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white&link=https://dev.to/evagrean)](https://dev.to/evagrean)
 <!--[![Gmail Badge](https://img.shields.io/badge/-greiner.anzenbacher@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:greiner.anzenbacher@gmail.com)](mailto:greiner.anzenbacher@gmail.com)-->
 
-![Profile last updated](https://img.shields.io/github/last-commit/evagrean/evagrean/main?label=Last%20updated&style=flat-square)
+<!--![Profile last updated](https://img.shields.io/github/last-commit/evagrean/evagrean/main?label=Last%20updated&style=flat-square)-->

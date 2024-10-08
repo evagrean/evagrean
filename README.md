@@ -1,8 +1,7 @@
 # Hello, I'm Eva
 
 <p>
-I'm a full-stack web developer with experience in the e-commerce sector. For scripts I'm writing for work I primarily use TypeScript and Node.js.
-I have a passion for continuous learning and growth. To broaden my expertise as a full-stack developer, I am exploring  AI-driven tools and frameworks and how they can help me improve my code quality, reduce development time or manage complex projects.
+I'm a full-stack web developer with experience in the e-commerce sector. My primary tech stack includes TypeScript and Node.js for backend development and React for the frontend. I'm passionate about continuous learning and using my skills to write clean code and create beneficial and meaningful solutions.
 </p>
 
 ---
